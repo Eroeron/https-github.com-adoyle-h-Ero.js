@@ -1,6 +1,6 @@
 # https-github.com-adoyle-h-Ero.js
 Ero tea
-# https://tea.xyz/what-is-this-file
+# https://tea.xyz/ero
 ---
 version: 1.0.0
 codeOwners:
